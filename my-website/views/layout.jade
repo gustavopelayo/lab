@@ -1,0 +1,18 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title= title
+    link(rel="stylesheet", href="/stylesheets/style.css")
+  body
+    header.site-header
+      .header-content
+        a.site-title(href="/") Your Name
+        nav.main-nav
+          a(href="/") About
+          a(href="/technologies") Technologies  
+          a(href="/projects") Projects
+    
+    main.main-content
+      block content
