@@ -1,0 +1,3 @@
+[submodule "premium-news-and-subscription"]
+	path = premium-news-and-subscription
+	url = https://github.com/gustavopelayo/premium-news-and-subscription.git
