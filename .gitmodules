@@ -1,3 +1,6 @@
 [submodule "premium-news-and-subscription"]
 	path = premium-news-and-subscription
 	url = https://github.com/gustavopelayo/premium-news-and-subscription.git
+[submodule "job-tool"]
+	path = job-tool
+	url = git@github.com:gustavo/job-tool.git
