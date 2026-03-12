@@ -3,4 +3,4 @@
 	url = https://github.com/gustavopelayo/premium-news-and-subscription.git
 [submodule "job-tool"]
 	path = job-tool
-	url = git@github.com:gustavo/job-tool.git
+	url = git@github.com:gypelayo/job-tool.git
